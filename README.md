@@ -1,3 +1,3 @@
-# React and TypeScript Example
+# React and TypeScript
 
-This is an exmaple application from Steve's React and TypeScript course.
+Adventures in React performance improvement
